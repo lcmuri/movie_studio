@@ -9,8 +9,10 @@
 */.ipynb_checkpoints/*
 
 
-#Large data files
+#SQLITE
 zippedData/im.db/im.db
+*/.im.db
+
 # IPython
 profile_default/
 ipython_config.py
