@@ -12,6 +12,7 @@
 #SQLITE
 zippedData/im.db/im.db 
 */.im.db
+zippedData/im.db.zip
 
 # IPython
 profile_default/
