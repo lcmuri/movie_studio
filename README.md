@@ -12,7 +12,7 @@ The movie industry is highly competitive, with countless production companies vy
 4.	What patterns can be observed in successful movies, and how can these patterns inform production choices for a new studio?
 5.	Is there an optimal budget range or release period that aligns with higher box office returns?
 
-##Business Understanding  
+## Business Understanding  
 Understanding the elements and factors that affect a movie’s performance has become essential for newcomers to the market as the entertainment sector expands. Your company intends to launch a new movie studio to optimise box office performance by determining the key factors that impact a movie’s success. The business will be able to make well-informed decisions about the types of films to make, the best times to release them, and budget allocations. 
 
 ## Project Overview  
