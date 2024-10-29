@@ -2,7 +2,7 @@
 
 For more information, run:
 
-'bash project.sh' 
+```bash ./project.sh```
 
 **INTRODUCTION**
 
