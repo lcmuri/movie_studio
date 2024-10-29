@@ -41,3 +41,9 @@ For this project, you will use exploratory data analysis to generate insights fo
 
 
 
+![image](https://github.com/StephenMulingwa/Group_Project/blob/9a6d5208ba40f1e3233d4756f49c29214542ddae/Average%20ROI%20by%20Genre.png)
+
+
+
+
+
