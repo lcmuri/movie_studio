@@ -1,7 +1,3 @@
-
-<img width="484" alt="Cinema" src="https://github.com/user-attachments/assets/d4109b3a-f700-4a4d-9556-4bae8930bc45">
-
-
 **Note**
 
 For more information, run:
