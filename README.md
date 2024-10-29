@@ -53,3 +53,8 @@ For this project, you will use exploratory data analysis to generate insights fo
 
 
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/a77480debf2b271b99dfcfa9d0c7f8473a84017c/Distribution%20of%20the%20Runtime%20minutes.png)
+
+
+
+
+![image](https://github.com/StephenMulingwa/Group_Project/blob/3c836b7e42b05b63900c663b7f19172e3c9bd6f5/Scatterplot%20on%20correlation.png)
