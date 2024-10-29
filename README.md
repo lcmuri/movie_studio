@@ -33,8 +33,8 @@ For this project, we will use exploratory data analysis to generate insights for
 
 ### Data Visualizations
 
-This is a visualization that portrays a boxplot of the production budget.
-![image](https://github.com/StephenMulingwa/Group_Project/blob/4048223d4f4b810e6581a000d6898e3626656b0f/Box%20plot%20of%20Production%20Budget.png)
+This is a visualization that portrays seasonal trends in Worldwide Box office revenue.
+![image](https://github.com/StephenMulingwa/Group_Project/blob/aeb221ecb9e53bba8f3a1aa84e038ad40d5fce73/WhatsApp%20Image%202024-10-29%20at%2022.45.08.jpeg)
 
 
 
