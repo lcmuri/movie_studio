@@ -1,5 +1,8 @@
 **Note**
-For more information, run: 'bash ./project.sh' 
+
+For more information, run:
+
+'bash project.sh' 
 
 **INTRODUCTION**
 
