@@ -58,3 +58,8 @@ For this project, you will use exploratory data analysis to generate insights fo
 
 
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/3c836b7e42b05b63900c663b7f19172e3c9bd6f5/Scatterplot%20on%20correlation.png)
+
+
+
+
+![image](https://github.com/StephenMulingwa/Group_Project/blob/73859d8d2298e232c5c4825e574ecdc26c2b5880/Screenshot%202024-10-29%20171554.png)
