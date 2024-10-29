@@ -23,14 +23,6 @@ This project is designed to aid a company's venture into the movie production in
 ###  The Problem Statement
 The company needs to pinpoint what types of movies are most successful in the current market to propel the new studio's launch. Specifically, we aim to:
 
-1. **Identify the Genres Performing Well at the Box Office**: Determine which movie genres are currently popular and yield high box office returns.
-   
-2. **Analyze Movie Budgets and Profitability**: Evaluate the relationship between production budgets, returns, and overall profitability to find the optimal investment range.
-   
-3. **Assess Audience Demographics Driving Success**: Understand which demographic segments are contributing significantly to box office revenues.
-   
-4. **Recommend Optimal Release Seasons or Windows**: Identify the best times of the year for releasing movies to maximize box office performance.
-
 ### Main objectives
 To identify the most successful types of films currently at the box office and translate these insights into actionable strategies that guide the new movie studio's production choices, ensuring competitive and commercial success in the film industry.
 
@@ -107,5 +99,4 @@ Target Audience: Marketing strategies based on the ratings that perform best in 
 If interested in other options, consider the following genres ; `Comedy/Drama/History, Action/Thriller & Comedy/Drama/Thriller`.
 
 If interested in other studios with favorable budgets, consider ; ` Independent Film Channel(IFC) & Warner Bros(WB)`.
-
 
