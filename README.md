@@ -65,8 +65,8 @@ This is a visualization that portrays the scatterplot on correlation.
 
 
 
-This is a visualization that portrays a comparison between the production budget and worldwide gross.
-![image](https://github.com/StephenMulingwa/Group_Project/blob/73859d8d2298e232c5c4825e574ecdc26c2b5880/Screenshot%202024-10-29%20171554.png)
+This is a visualization that portrays a comparison of the production budget and worldwide gross by studios.
+![image](https://github.com/StephenMulingwa/Group_Project/blob/406558a8d8382c13d124faea316e579fe13c4e3b/WhatsApp%20Image%202024-10-29%20at%2022.44.52.jpeg)
 
 
 
