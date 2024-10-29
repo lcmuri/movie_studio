@@ -67,3 +67,10 @@ This is a visualization that portrays the scatterplot on correlation.
 
 This is a visualization that portrays a comparison between the production budget and worldwide gross.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/73859d8d2298e232c5c4825e574ecdc26c2b5880/Screenshot%202024-10-29%20171554.png)
+
+
+
+
+
+For the tableau visualizations, click here https://public.tableau.com/views/groupproject_17302300046460/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
