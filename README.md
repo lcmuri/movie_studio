@@ -21,7 +21,7 @@ The movie industry is highly competitive, with countless production companies vy
 5.	Is there an optimal budget range or release period that aligns with higher box office returns?
 
 ## Business Understanding  
-Understanding the elements and factors that affect a movie’s performance has become essential for newcomers to the market as the entertainment sector expands. Your company intends to launch a new movie studio to optimise box office performance by determining the key factors that impact a movie’s success. The business will be able to make well-informed decisions about the types of films to make, the best times to release them, and budget allocations. 
+Understanding the elements and factors that affect a movie’s performance has become essential for newcomers to the market as the entertainment sector expands. Our company intends to launch a new movie studio to optimise box office performance by determining the key factors that impact a movie’s success. The business will be able to make well-informed decisions about the types of films to make, the best times to release them, and budget allocations. 
 
 ## Project Overview  
 There are many movies released annually, making the film industry extremely competitive. Numerous factors can impact a movie’s performance, and not all movies are financially successful. The genre, release date, budget, ratings and production company are some of the factors that can greatly impact a film's success or failure. However, it is difficult for the business to come up with a plan that boosts the possibility of creating box office hits if these influencing factors are not well understood.
