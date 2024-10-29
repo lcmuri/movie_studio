@@ -1,10 +1,5 @@
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/bbe09d12641a54591d8cbb385c8dc616afb7c2ce/Cinema.png)
 
-**Note**
-
-For more information, run:
-
-```bash ./project.sh```
 
 **INTRODUCTION**
 
@@ -25,7 +20,7 @@ Understanding the elements and factors that affect a movie’s performance has b
 
 ## Project Overview  
 There are many movies released annually, making the film industry extremely competitive. Numerous factors can impact a movie’s performance, and not all movies are financially successful. The genre, release date, budget, ratings and production company are some of the factors that can greatly impact a film's success or failure. However, it is difficult for the business to come up with a plan that boosts the possibility of creating box office hits if these influencing factors are not well understood.
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+For this project, we will use exploratory data analysis to generate insights for a business stakeholder.
 
 ### Data Understanding
 
