@@ -1,3 +1,6 @@
+**Note**
+For more information, run: 'bash ./project.sh' 
+
 **INTRODUCTION**
 
 The movie industry is highly competitive, with countless production companies vying for the attention of global audiences. After intensive research, we were tasked to research the current film industry trends to assist in directing the company's upcoming film production endeavour. Knowing what kinds of movies are doing well at the box office will be crucial to our new movie studio's success as more businesses venture into producing original video content. I will find important patterns and trends in audience preferences by examining recent box office data. To help the studio head make well-informed decisions regarding the genres, themes, and formats that are most likely to appeal to viewers and optimize our studio's success, these insights will be converted into practical suggestions. 
