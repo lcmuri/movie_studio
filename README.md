@@ -35,37 +35,37 @@ For this project, you will use exploratory data analysis to generate insights fo
 
 ### Data Visualizations
 
-This is a visualization that portrays a boxplot of the production budget.
+** This is a visualization that portrays a boxplot of the production budget.**
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/4048223d4f4b810e6581a000d6898e3626656b0f/Box%20plot%20of%20Production%20Budget.png)
 
 
 
 
 
-This is a visualization that portrays the comparison of the average Return on Investment(ROI) by Genre.
+** This is a visualization that portrays the comparison of the average Return on Investment(ROI) by Genre.**
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/9a6d5208ba40f1e3233d4756f49c29214542ddae/Average%20ROI%20by%20Genre.png)
 
 
 
 
-This is a visualization that portrays the distribution of movie genres. A comparison of the number of movies and genres.
+** This is a visualization that portrays the distribution of movie genres. A comparison of the number of movies and genres.**
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/7572ccd7c6be2efb593e8b2839ce34c897bed9ff/Distribution%20of%20Movie%20Genres.png)
 
 
 
 
 
-This is a visualization that portrays the distribution of runtime minutes.
+** This is a visualization that portrays the distribution of runtime minutes.**
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/a77480debf2b271b99dfcfa9d0c7f8473a84017c/Distribution%20of%20the%20Runtime%20minutes.png)
 
 
 
 
-This is a visualization that portrays the scatterplot on correlation.
+** This is a visualization that portrays the scatterplot on correlation.**
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/3c836b7e42b05b63900c663b7f19172e3c9bd6f5/Scatterplot%20on%20correlation.png)
 
 
 
 
-This is a visualization that portrays a comparison between the production budget and worldwide gross.
+** This is a visualization that portrays a comparison between the production budget and worldwide gross.**
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/73859d8d2298e232c5c4825e574ecdc26c2b5880/Screenshot%202024-10-29%20171554.png)
