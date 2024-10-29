@@ -33,6 +33,11 @@ For this project, you will use exploratory data analysis to generate insights fo
 
 ### Data Analysis
 
-**Visualizations**
+### Data Visualizations
+
+![image](https://github.com/StephenMulingwa/Group_Project/blob/4048223d4f4b810e6581a000d6898e3626656b0f/Box%20plot%20of%20Production%20Budget.png)
+
+
+
 
 
