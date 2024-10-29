@@ -9,7 +9,7 @@ The movie industry is highly competitive, with countless production companies vy
 
 
 ## Business Understanding  
-
+The project focuses on analyzing the film industry to guide a new movie studio in optimizing box office performance. It involves researching current trends and audience preferences through exploratory data analysis of recent box office data. Key objectives include identifying successful genres, understanding how genre influences revenue and ratings, and determining optimal budgets and release timings. By deriving actionable insights from these analyses, the project aims to help the studio make informed decisions on film production strategies to increase the likelihood of financial success in a competitive market.
 
 **Business Questions for the upcoming project**
 1.	What genres are currently the most successful at the box office? 
