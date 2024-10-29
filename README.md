@@ -47,3 +47,9 @@ For this project, you will use exploratory data analysis to generate insights fo
 
 
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/7572ccd7c6be2efb593e8b2839ce34c897bed9ff/Distribution%20of%20Movie%20Genres.png)
+
+
+
+
+
+![image](https://github.com/StephenMulingwa/Group_Project/blob/a77480debf2b271b99dfcfa9d0c7f8473a84017c/Distribution%20of%20the%20Runtime%20minutes.png)
