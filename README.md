@@ -56,7 +56,7 @@ The imdb data was stored in a sql database with several tables as shown in the E
 Missing values and duplicated rows are handled. Also, columns irrelevant to the project are dropped. Formatting of columns and their contents for smooth analysis.
 
 ### Data Analysis; Transformation, Merging, Visualisations.
-`Transformation`-Converting the data types in our datasets to enable                          manipulation.gross[foreign_gross]&budget[domestic_gross,producion_budget,worldwide_gross] the columns in this dataset are object datatype,this means the numeric figures are read like strings instead of numbers. So to have clarity ,we convert them to float datatype for more accurate readings
+`Transformation`-Converting the data types in our datasets to enable  manipulation. `gross[foreign_gross] &                         budget[domestic_gross,producion_budget,worldwide_gross]` the columns in this dataset are object datatype,this means the numeric figures are read like strings instead of numbers. So to have clarity ,we convert them to float datatype for more accurate readings
 
 `Merging`-Having a cleaned data versions we perform merge .Merging data frames combines multiple datasets into a single, unified dataset,allowing for a more comprehensive analysis.Merging the datasets will enable us to explain more with visualization for better understanding of our objective
 
