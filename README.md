@@ -1,3 +1,5 @@
+Data-driven insights for successful Movie Studio
+
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/bbe09d12641a54591d8cbb385c8dc616afb7c2ce/Cinema.png)
 
 
@@ -26,10 +28,19 @@ There are many movies released annually, making the film industry extremely comp
 For this project, we will use exploratory data analysis to generate insights for a business stakeholder.
 
 ### Data Understanding
-
+The dataset was sourced from various platforms including Box Office Mojo, IMDb, Rotten Tomatoes, The Movie DB, and The Numbers, and consists of movie-related data in different formats, such as CSV, TSV, and a SQLite database. 
+Key entries include the "movie_basics" and "movie_ratings" tables from the IMDb database and box office gross data from the compressed CSV file.
+The dataset includes 1,764 films and 12 columns, covering titles, studios, runtime, genres, popularity, release dates, ratings, budgets, and gross revenues.
+Analyzing production budgets, gross earnings, and audience ratings will reveal trends to guide the new movie studio's genre and theme decisions
+Insights drawn from the dataset will enable the studio to align its production strategy with market demands, increasing the likelihood of creating successful original video content.
 
 
 ### Data Analysis
+Drama is the most prevalent genre, with 897 entries. This suggests a strong audience interest in character-driven stories and emotional narratives, making it a staple in film production.
+There remains a healthy diversity of genres that cater to varied tastes, although some traditional genres like westerns and musicals are underrepresented. This trend suggests filmmakers continue to explore a wide range of narratives while also gravitating towards proven successes in more popular genres.
+The distribution of movie runtimes shows that the average runtime is approximately 100 minutes, with most films falling between 90 and 120 minutes, indicating a wide range of runtimes in the dataset.
+The average ROI shows that the Sport genre is the most profitable, with an ROI of about 15.23, followed by Horror at 12.52 and Romance at 9.12. In contrast, genres like War (1.68) and News (0.98) have much lower returns, highlighting big differences in profitability.
+A strong positive correlation between production budget and worldwide gross suggests that higher production budgets generally result in higher worldwide earnings across the different studios.
 
 ### Data Visualizations
 
@@ -69,6 +80,17 @@ This is a visualization that portrays a comparison of the production budget and 
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/406558a8d8382c13d124faea316e579fe13c4e3b/WhatsApp%20Image%202024-10-29%20at%2022.44.52.jpeg)
 
 
+### RECOMMENDATIONS
+It is clear that Drama, Comedy, and Action genres are the most successful because they have significantly more films produced compared to other genres, suggesting high market demand
+Genres like Sport, Sci-Fi, and Fantasy achieve high gross revenues, strong viewer ratings, and favourable ROIs, while genres like War and News have lower financial returns and ratings, making them less attractive for investment.
+Seasonal movie releases timed during some months tend to yield high revenues, while certain months experience a significant drop in audience engagement. This can help in planning release schedules.
+The strong link between domestic and worldwide gross shows that how well a film does at home is important, highlighting the need for good marketing and audience engagement in the domestic market.
+
+### CONCLUSION
+It is clear that Drama, Comedy, and Action genres are the most successful because they have significantly more films produced compared to other genres, suggesting high market demand
+Genres like Sports, Sci-Fi, and Fantasy achieve high gross revenues, strong viewer ratings, and favourable ROIs, while genres like War and News have lower financial returns and ratings, making them less attractive for investment.
+Seasonal movie releases timed during some months tend to yield high revenues, while certain months experience a significant drop in audience engagement. This can help in planning release schedules.
+The strong link between domestic and worldwide gross shows that how well a film does at home is important, highlighting the need for good marketing and audience engagement in the domestic market.
 
 
 
