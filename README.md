@@ -1,4 +1,4 @@
-Data-driven insights for successful Movie Studio
+### Data-driven insights for successful Movie Studio
 
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/bbe09d12641a54591d8cbb385c8dc616afb7c2ce/Cinema.png)
 
