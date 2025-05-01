@@ -1,6 +1,3 @@
-Here’s a draft README file for your entire project. I’ve tailored it to align with your interests and focus on SQL, data analysis, and presentations:
-
----
 
 # README: Movie Studio Revenue Analysis Project
 
