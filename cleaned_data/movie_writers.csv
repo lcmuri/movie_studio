@@ -1,4 +1,4 @@
-movie_id,movie_name,release_year,runtime_minutes,genres,averagerating,numvotes,release_date,production_budget,domestic_gross,worldwide_gross,writers,person_ids
+movie_id,movie_name,release_year,runtime_minutes,genres,averagerating,numvotes,release_date,production_budget,domestic_gross,worldwide_gross,writers,writer_ids
 tt0249516,foodfight!,2012,91,"action,animation,comedy",1.9,8248,2012-12-31,45000000,0,73706,"Sean Catherine Derek, Lawrence Kasanoff, Joshua Wexler, Brent V. Friedman","nm0220297, nm0440415, nm0923312, nm0295165"
 tt0359950,the secret life of walter mitty,2013,114,"adventure,comedy,drama",7.3,275300,2013-12-25,91000000,58236838,187861183,Steve Conrad,nm0175726
 tt0365907,a walk among the tombstones,2014,114,"action,crime,drama",6.5,105116,2014-09-19,28000000,26017685,62108587,"Lawrence Block, Scott Frank","nm0088747, nm0291082"
